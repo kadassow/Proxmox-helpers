@@ -1,0 +1,4 @@
+https://tteck.github.io/Proxmox/
+
+
+bash -c "$(wget -qLO - https://github.com/kadassow/Proxmox-helpers/raw/main/misc/post-pve-install.sh)"
